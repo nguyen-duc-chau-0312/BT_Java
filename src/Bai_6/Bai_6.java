@@ -10,6 +10,7 @@ public class Bai_6 {
 
              "Lá bài bạn vừa rút ra là Q cơ"
          */
+        // cach nay bai 6 em lam chua dung 
         int i, j;
         String[] a = {"Rô, Cơ, Bích, Tép"};
         String[] b = {"Át, Hai, Ba, Bốn, Năm, Sáu, Bảy, Tám, Chín, Mười , J, Q, K"};
